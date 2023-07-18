@@ -1,6 +1,5 @@
 OOP1 – project – Save the King
 Max Dunkel:
-Philip Berlin:
 
 Game description:
 The mission of the game is to guide the king through the levels to the throne.
